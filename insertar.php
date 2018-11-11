@@ -1,5 +1,5 @@
 <?php
-
+//archivo para enviar datos por post a la API
 //Lo primerito, creamos una variable iniciando curl, pasándole la url
 $ch = curl_init('http://localhost/API_ejemplos/API_php/product/create.php');
  
